@@ -55,6 +55,7 @@ def writeRowToDump(row):
 			quibbl['expires'] = None
 	weights = row[WEIGHTS_INDEX]
 	count = sum([int(w) for w in weights])
+	quibbl['category'] = quibbl['category'].lower()
 	quibbl['points'] = int(quibbl['points'])
 	quibbl['voteCount'] = count
 	quibbl['options'] = buildOptions(weights, count)

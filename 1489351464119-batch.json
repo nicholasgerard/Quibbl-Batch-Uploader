@@ -1,0 +1,868 @@
+{
+  "quibbls": {
+    "1489351464118-6AWpiSa64M": {
+      "callout": "#NBA", 
+      "category": "sports", 
+      "expires": 604800000, 
+      "imageURL": "https://c1.staticflickr.com/6/5012/5527864201_84d83d5a70_b.jpg", 
+      "links": [
+        "http://sports.yahoo.com/news/kevin-durant-progressing-rehab-no-timetable-return-022153712--nba.html"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The Golden State Warriors haven't looked the same since Durant's injury. Team officials said they'll re-evaluate in a month before predicting the forward's return to the court.", 
+      "timestamp": 1489351464118, 
+      "title": "Will Kevin Durant play again before the playoffs?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-FPvLeG6rXF": {
+      "callout": "#NFLFreeAgency", 
+      "category": "sports", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/6/5521/10132069153_a035df80d6.jpg", 
+      "links": [
+        "http://www.espn.com/espn/feature/story/_/id/18607602/tony-romo-tracking-every-possible-landing-spot-2017"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The Dallas Cowboys have found their quarterback of the future in Dak Prescott. Tony Romo will make over $30 million over the next two seasons and is reportedly on the trade block, but teams are wary to give up any assets in exchange for the oft-injured signal caller that may be cut to make salary room for the Cowboys. Will the Cowboys find a trade partner for Romo?", 
+      "timestamp": 1489351464118, 
+      "title": "Will Tony Romo be traded?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-N9PaxbAGoH": {
+      "callout": "#Environment", 
+      "category": "politics", 
+      "expires": 604800000, 
+      "imageURL": "https://c1.staticflickr.com/3/2630/3749301261_6acce9256b_b.jpg", 
+      "links": [
+        "https://www.washingtonpost.com/news/energy-environment/wp/2017/03/03/white-house-proposes-steep-budget-cut-to-leading-climate-science-agency/?utm_term=.482866bbd5b1"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The Trump administration has proposed a 17% cut to the National Oceanic and Atmospheric Administration, a climate science agency. However, NOAA works to report extreme weather events that impact the safety of American citizens as well as commerical ships. Will the budget office retract the proposal and seek cuts elsewhere this month in their initial budget proposal?", 
+      "timestamp": 1489351464118, 
+      "title": "NOAA Budget Slash?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-RN1JA6y9af": {
+      "callout": "#NFLFreeAgency", 
+      "category": "sports", 
+      "expires": 604800000, 
+      "imageURL": "https://c1.staticflickr.com/6/5092/5483359493_c8621a61d7_b.jpg", 
+      "links": [
+        "http://sports.yahoo.com/video/report-adrian-peterson-consider-team-192912112.html"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Former Minnesota Vikings running back Adrian Peterson is a free agent this spring and is reportedly interested in joining a team with championship aspirations. Will the 32 year old sign with the New England Patriots?", 
+      "timestamp": 1489351464118, 
+      "title": "Peterson to Patriots?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-RX5EMLbTYb": {
+      "callout": "#NCAAWomen", 
+      "category": "sports", 
+      "expires": 2419200000, 
+      "imageURL": "http://i.vimeocdn.com/video/549252738_1280x720.jpg", 
+      "links": [
+        "http://www.espn.com/womens-college-basketball/story/_/id/18858483/connecticut-huskies-geno-auriemma-espnw-coach-year-oregon-duck-sabrina-ionescu-named-top-freshman"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The University of Connecticut's womens basketball team hasn't lost since 2014. The Huskies have won over 100 straight games, most by double digits, and are poised for another run at the title this month. Will they win every remaining game this season?", 
+      "timestamp": 1489351464118, 
+      "title": "UConn Dynasty Continued?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-Umv0gkPvr4": {
+      "callout": "#NBA", 
+      "category": "sports", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/6/5258/5528459136_af6ba9f0b8_b.jpg", 
+      "links": [
+        "http://sports.yahoo.com/news/russell-westbrooks-reiterates-mvp-case-with-historic-31st-triple-double-075355754.html"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "No NBA player since Oscar Robertson in 1962 has ever averaged a triple-double over an entire NBA season. The Thunder's Russell Westbrook is on pace to change that this season, but he isn't the runaway favorite to win the NBA MVP Award. Will he win it?", 
+      "timestamp": 1489351464118, 
+      "title": "Will Russell Westbrook rewrite history and win MVP?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-VdSoH6wyiD": {
+      "callout": "#EPL", 
+      "category": "sports", 
+      "expires": 604800000, 
+      "imageURL": "https://c1.staticflickr.com/4/3683/12085905563_b6e8c7aa57_b.jpg", 
+      "links": [
+        "http://www.espnfc.us/english-premier-league/23/scores?date=20170319"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Liverpool and Manchester City are both battling for a place in next season's Champions League, but face off on Sunday March 19th. Will Manchester City feed off the home crowd and win?", 
+      "timestamp": 1489351464118, 
+      "title": "Premier League Battle", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-W19y9VhA24": {
+      "callout": "#ObamaCare", 
+      "category": "politics", 
+      "expires": 604800000, 
+      "imageURL": "https://c1.staticflickr.com/1/459/31196987133_35efa00fb1_b.jpg", 
+      "links": [
+        "https://www.washingtonpost.com/powerpost/new-details-emerge-on-gop-plans-to-repeal-and-replace-obamacare/2017/03/06/04751e3e-028f-11e7-ad5b-d22680e18d10_story.html?utm_term=.852e5179e9c7"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "House Republicans released their American Health Care Act this week to mixed reviews. Will any Democrats in the House or Senate publicly voice support for the bill before Sunday March 19th?", 
+      "timestamp": 1489351464118, 
+      "title": "GOP Healthcare - Bipartisan Support?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-Wk5ZwGfGxg": {
+      "callout": "#NFL", 
+      "category": "sports", 
+      "expires": 29030400000, 
+      "imageURL": "https://c1.staticflickr.com/4/3673/13295937215_76f3e2321a_b.jpg", 
+      "links": [
+        "http://www.espn.com/nfl/story/_/id/18865828/making-sense-unprecedented-brock-osweiler-trade-nfl"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The Cleveland Browns and Houston Texans made a unique trade by NFL standards this week - sending QB Brock Osweiler and his $16M salary along with a 2nd round pick to Cleveland - helping the Browns reach the NFL's salary floor and the Texans to shed the contract. Osweiler isn't considered a long term solutions for the Browns. Will he start a regular season game for them this year?", 
+      "timestamp": 1489351464118, 
+      "title": "Will there be a Brock Party in Cleveland this fall?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-XqhRkNQvft": {
+      "callout": "#NFLDraft", 
+      "category": "sports", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/8/7446/14148835584_91b62a842f_b.jpg", 
+      "links": [
+        "http://www.cbssports.com/nfl/draft/mock-draft"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The Cleveland Browns have the first overall pick in the 2017 NFL Draft. Every \"expert\" at CBS Sports projects them to select Texas A&M Defensive End Myles Garrett. Will they?", 
+      "timestamp": 1489351464118, 
+      "title": "Will Texas A&M DE Myles Garrett be the first overall pick in April's NFL Draft?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-qCyPKQpdfb": {
+      "callout": "#EPL", 
+      "category": "sports", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/1/596/22695723477_91d97c81ee_b.jpg", 
+      "links": [
+        "www.espnfc.us/english-premier-league/23/statistics/scorers"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Tottenham's Harry Kane currently sits on 19 goals - one ahead of Everton's Romelu Lukaku and two ahead of Chelsea's Diego Costa and Arsenal's Alexis Sanchez. Will Kane end March with the goal lead?", 
+      "timestamp": 1489351464118, 
+      "title": "Will Kane end March as the EPL's top goal scorer?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-vcEZllBK4L": {
+      "callout": "#PostTrumpWorld", 
+      "category": "politics", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/1/423/32526433571_d5bf2964a8_b.jpg", 
+      "links": [
+        "https://www.nytimes.com/2017/03/08/us/politics/activists-urge-democrats-to-step-up-resistance-to-gorsuch-nomination.html?_r=0"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "President Donald Trump\u2019s nominee, Neil Gorsuch, needs 60 Senate confirmation votes to win a seat on the Supreme Court. Will Senate Democrats vote him down and keep him off the Court?", 
+      "timestamp": 1489351464118, 
+      "title": "Gorsuch on the Supreme Court?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464118-yVwE2JE9Ez": {
+      "callout": "#EPL", 
+      "category": "sports", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/2/1308/1246418393_1ce04a67af_b.jpg", 
+      "links": [
+        "http://www.espnfc.us/english-premier-league/23/table"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Sunderland currently sit in last place in the Premier League with 19 points. Will they produce another late season run that keeps them away from relegation?", 
+      "timestamp": 1489351464118, 
+      "title": "Will Sunderland Avoid Relegation for another year?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-1oTdg16qTe": {
+      "callout": "#Gossip", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/9/8466/8123802895_313722d517_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "\"Suits\" actress Meghan Markle has been dating England's Prince Harry for over a year and been participating in a lot of humanitarian causes with him. Will the 35 year old American be joining the Royal Family and announcing an engagement this year?", 
+      "timestamp": 1489351464119, 
+      "title": "Royal Romance - Will Meghan Markle Join The Royal Family?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-8HBxpbE17P": {
+      "callout": "#BoxOffice", 
+      "category": "entertainment", 
+      "expires": 604800000, 
+      "imageURL": "https://c1.staticflickr.com/2/1355/5121440257_97940c7038_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "After a surpising win at the Academy Awards, Moonlight saw a 254% boost in their weekend ticket sales over the previous week. They're still at $25,382,307 domestic gross sales thus far - the lowest of any Best Picture winner in the past decade. Will they surpass $30 million by Monday March 27th?", 
+      "timestamp": 1489351464119, 
+      "title": "Moonlight's Best Picture Bounce", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-ANSLAC9ZQw": {
+      "callout": "#PostTrumpWorld", 
+      "category": "politics", 
+      "expires": 604800000, 
+      "imageURL": "https://c1.staticflickr.com/9/8236/8566717881_58f36f5a37_b.jpg", 
+      "links": [
+        "http://www.gallup.com/poll/201617/gallup-daily-trump-job-approval.aspx"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Heading into the weekend, the Gallup Daily Trump Job Approval stood at a net -10 with 52% disapproval and 42% approval among a daily sample size of 1500 voters nationwide. The President's ratings have varied sharply week by week. Will this week's agenda of an Obamacare replacement vote in the House and a new budget help his approval rating get to better than a net -10 next weekend?", 
+      "timestamp": 1489351464119, 
+      "title": "Trump Approval Rating Tracker", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-AfbLC1FICm": {
+      "callout": "#Healthcare", 
+      "category": "politics", 
+      "expires": 604800000, 
+      "imageURL": "http://maxpixel.freegreatpicture.com/static/photo/1x/Senate-Congress-Washington-Dc-Capital-White-House-13863.jpg", 
+      "links": [
+        "http://www.cnn.com/2017/03/08/politics/obamacare-cbo/"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Will the nonpartisan Congressional Budget Office, which scores legislation to estimate its costs and benefits, produce a report on the American Health Care Act before it is voted on in the House?", 
+      "timestamp": 1489351464119, 
+      "title": "Will the CBO score the AHCA before its vote?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-CXaFmRxjNj": {
+      "callout": "#Gossip", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/4/3461/3215777143_9fd88fc35b_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "There are rumors abound this week that former Hollywood couple Jennifer Garner and Ben Affleck had halted their divorce procedings. Will the two publicly annouce a reconciliation in the next month?", 
+      "timestamp": 1489351464119, 
+      "title": "Ben And Jen Together Again?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-D03fktG63r": {
+      "callout": "#Kardashian", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/1/753/21726048552_7df4474de8_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "\"Keeping Up With The Kardashians\" returns for a 13th season on Sunday night. With sinking ratings, E! will likely turn up the drama to pull in more viewers. Will Kim Kardashian cry in more than one scene?", 
+      "timestamp": 1489351464119, 
+      "title": "Will Kim Shed Tears In the \"KUWTK\" Premier?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-EllKb1CghH": {
+      "callout": "#Chicago", 
+      "category": "politics", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/5/4110/5172715194_b0ebc47c5b_b.jpg", 
+      "links": [
+        "http://www.politico.com/story/2017/03/chance-rapper-illinois-235744"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The Chicago Public Schools system is facing a major funding crisis; Govenor Rauner vetoed legislation that would have provided $215 million and the govenor's own proposals have been rejected. CPS announced that it may have to make cuts to save money. Will they shorten the school year to do so?", 
+      "timestamp": 1489351464119, 
+      "title": "Shorter School Year for CPS?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-Fk6ZTeK0Ma": {
+      "callout": "#BoxOffice", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/1/37/74692961_93974191ab_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Warner Bros. spent $185 million to produce \"Kong: Skull Island,\" which premiered March 10th. Will the film make more than that amount in gross domestic sales this month?", 
+      "timestamp": 1489351464119, 
+      "title": "Will \"Kong: Skull Island\" Turn A Profit?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-HZTpTvwqIA": {
+      "callout": "#Gossip", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/8/7163/6717541735_abcdd545be_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "This week's celebrity gossip included another round of rumors that Miley Cyrus and Liam Hemsworth had secretly married. Is it true? Will they announce it publicly in the next month?", 
+      "timestamp": 1489351464119, 
+      "title": "Miley Got Married?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-JYrl8ijzLb": {
+      "callout": "#BoxOffice", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/6/5309/29826475976_f173df6900_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "At $146 million in gross domestic sales, \"La La Land\" is edging closer to the highest grossing Musical film of all time, \"Chicago,\" which hit $170 million in 2003. Will \"La La Land\" surpass \"Chicago\" in domestic gross sales by month's end?", 
+      "timestamp": 1489351464119, 
+      "title": "Will \"La La Land\" Set the Musical Box Office Record?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-LMtqiemEur": {
+      "callout": "#Kardashian", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/5/4015/4298892223_b4b81cc3da.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Kylie Jenner and rapper Tyga have been dating for over a year and rumors are swirling of an impending engagement. Will the reality TV stars publicly announce an engagement this month?", 
+      "timestamp": 1489351464119, 
+      "title": "Kylie And Tyga Tie The Knot?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-h7tB678kP2": {
+      "callout": "#BoxOffice", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/8/7336/9358601264_0f860dbbf2_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Hugh Jackman's \"Logan\" is off to hot start with over $114 million in domestic gross sales in its first week. Will it surpass the highest grossing R-Rated comic adaptation, \"Deadpool\" with $363 million in total domestic gross sales?", 
+      "timestamp": 1489351464119, 
+      "title": "Will Logan Reign Supreme Among R-Rated Comic Movies?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-iAC3jJdjx2": {
+      "callout": "#NorthKorea", 
+      "category": "politics", 
+      "expires": 604800000, 
+      "imageURL": "https://c1.staticflickr.com/8/7157/6538671777_b7f16d17c8_z.jpg", 
+      "links": [
+        "https://www.nytimes.com/2017/03/07/world/asia/korea-missile-defense-china-trump.html?rref=collection%2Ftimestopic%2FNorth%20Korea%27s%20Nuclear%20Program&action=click&contentCollection=timestopics&region=stream&module=stream_unit&version=latest&contentPlacement=3&pgtype=collection"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "On Monday, North Korea tested four ballistic missiles, some of which landed in waters which Japan claims as its economic territory. This puts a great deal of pressure on the Trump administration, but the White House is woefully understaffed on personnel to conduct policy review. Will the White House present a plan by the end of this week to deal with an increasingly aggressive North Korea?", 
+      "timestamp": 1489351464119, 
+      "title": "North Korea - Policy Review?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-jJDVd5bX6f": {
+      "callout": "#Education", 
+      "category": "politics", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/2/1365/876434274_c151e47565.jpg", 
+      "links": [
+        "https://www.washingtonpost.com/local/maryland-house-oks-testing-limit-to-2-percent-of-school-year/2017/02/28/e5ad3af6-fe09-11e6-9b78-824ccab94435_story.html?utm_term=.a9dd58f47212"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "On Tuesday, the Maryland House approved a bill that would limit the amount of classroom time that schools spend on tests requried by the federal government, state, or school district to 2%. A similar bill died in the Senate last year. Will this one make it through this month?", 
+      "timestamp": 1489351464119, 
+      "title": "Less Testing, More Learning Act - Senate Approval?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-jQqBwhEPcK": {
+      "callout": "#Healthcare", 
+      "category": "politics", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/9/8088/8567985886_8c741da46b_b.jpg", 
+      "links": [
+        "https://www.washingtonpost.com/news/powerpost/wp/2017/03/07/what-does-repeal-mean-the-answer-complicates-the-gops-health-care-strategy/?utm_term=.7a0cd39afe54"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The American Health Care Act, a Republican-written replacement for the Affordable Care Act, will be debated and voted on over the next few weeks. Will it pass a vote on the floor of the House of Representatives?", 
+      "timestamp": 1489351464119, 
+      "title": "Will The AHCA pass through the House?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-kZea3NbggM": {
+      "callout": "#BoxOffice", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/1/738/32711568845_89540bd296_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Since opening on February 10th, \"The LEGO Batman Movie\" has worldwide gross sales of $260 million. Will it surpass $300 million by month's end?", 
+      "timestamp": 1489351464119, 
+      "title": "Is \"The LEGO Batman Movie\" Really Going to Make $300 Million?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-v2gTwoWFqe": {
+      "callout": "#Environment", 
+      "category": "politics", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/4/3956/15030370443_c759c00d8f.jpg", 
+      "links": [
+        "https://www.energystar.gov/sites/default/files/asset/document/ENERGYSTAR_2014AnnualReport_508_0.pdf"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "As the Trump Administration prepares their first budget proposal, many leaks have stated that EPA Boss Scott Pruitt wants to eliminate the Energy Star program that costs $57 million a year. The program, which is a nonpartisan collection of scientific tests and guidelines for electricity and water efficiency in household appliances, claims to have saved consumers and businesses over $360 billion dollars in it's twenty five year existence. Will the inital Trump budget scrap the program?", 
+      "timestamp": 1489351464119, 
+      "title": "Will Energy Star appliances disappear?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-xG1gcalNd4": {
+      "callout": "#Bachelor", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "http://maxpixel.freegreatpicture.com/static/photo/1x/In-Love-Romantic-Love-Feeling-Landscape-Boyfriends-1244310.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "This season of \"The Bachelor\" included a contestant we all love to hate. Will Corinne return to the show as a participant in this spring's \"Bachelor In Paradise?\"", 
+      "timestamp": 1489351464119, 
+      "title": "Will Corinne Return?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }, 
+    "1489351464119-z2bBCX25kJ": {
+      "callout": "#Gossip", 
+      "category": "entertainment", 
+      "expires": 2419200000, 
+      "imageURL": "https://c1.staticflickr.com/9/8118/8611445106_03402df6db_b.jpg", 
+      "links": [
+        ""
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "Actress and celebrity daughter, Lily Collins released her first book this week to critical acclaim. Will the daughter of singer Phil Collins break into the New York Times Best Sellers List Top 10 by the end of March?", 
+      "timestamp": 1489351464119, 
+      "title": "Will Lily Collins Be A Bestseller?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }
+  }
+}
