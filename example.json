@@ -1,0 +1,36 @@
+{
+  "quibbls" : {
+    "1487381561058-quibblIdentifierOne" : {
+      "callout" : "#PostTrumpWorld",
+      "category" : "politics",
+      "expires" : 604800000,
+      "imageURL" : "http://something.com/image.jpg",
+      "options" : [
+        {
+          "count" : 5,
+          "name" : "Yes",
+          "odds" : 0.5,
+          "winCondition": "Democrats win enough seats",
+          "lossCondition": "Democrats don't win enough seats"
+        },
+        {
+          "count" : 5,
+          "name" : "No",
+          "odds" : 0.5,
+          "winCondition": "Democrats don't win enough seats",
+          "lossCondition": "Democrats win enough seats"
+        }
+      ],
+      "points" : 10,
+      "summary" : "Republicans in Delaware are trying to pry unified control of the Delaware state government away from the Democrats.",
+      "links" : [
+        "https://www.nytimes.com/2017/03/08/us/politics/affordable-care-act-obama-care-health.html",
+        "http://www.cnn.com/2017/03/08/politics/graham-wiretap-russia-subpoena/index.html"
+      ],
+      "timestamp" : 1487381561058,
+      "title" : "Will Democrats win enough seats to retain the State Senate in Delaware?",
+      "type" : "choose",
+      "voteCount" : 10
+    }
+  }
+}

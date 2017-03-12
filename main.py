@@ -32,7 +32,7 @@ JSON_INDEX_SCHEMA ={
       "summary" : SUMMARY_INDEX,
       "links" : LINKS_INDEX,
       "title" : TITLE_INDEX,
-      "type" : TYPE_INDEX
+      "type" : TYPE_INDEX,
     }
 
 batch = []
@@ -44,7 +44,7 @@ def writeRowToDump(row):
 	for key in JSON_INDEX_SCHEMA:
 		quibbl[key] = row[JSON_INDEX_SCHEMA[key]]
 	quibbl['timestamp'] = timestamp
-	
+
 	try: #CSV Reads in as string. Checks to see if it is a shorthand identifier or expressed in milliseconds
 		quibbl['expires'] = int(quibbl['expires'])
 	except:
@@ -52,8 +52,29 @@ def writeRowToDump(row):
 			quibbl['expires'] = TimePeriods[quibbl['expires'].upper()]
 		except:
 			quibbl['expires'] = None
+	weights = row[WEIGHTS_INDEX]
+	count = sum([int(w) for w in weights])
+	quibbl['voteCount'] = count
+	quibbl['options'] = buildOptions(weights, count)
 	return quibbl
-	
+def buildOptions(weights, count):
+	options = []
+	optionList = []
+	if len(weights) == 2:
+		options = ['Yes','No']
+	elif len(weights) == 3:
+		options = ['Yes', 'No', 'Maybe']
+	for i in range(0, len(options)):
+		optDic = {}
+		optDic['name'] = options[i]
+		temp = [int(w) for w in weights]
+		optDic['odds'] = float(weights[i])/float(count)
+		optDic['count'] = int(weights[i])
+		optionList.append(optDic)
+	return optionList
+
+
+
 def readInBatchFile():
 	with open('batchupload.csv', 'rb') as batchfile:
 	    batchreader = csv.reader(batchfile, quotechar='"')
@@ -62,6 +83,8 @@ def readInBatchFile():
 	    	#row[CALLOUT_INDEX] = [s.strip() for s in row[CALLOUT_INDEX]]
 	        row[LINKS_INDEX] = row[LINKS_INDEX].split(",")
 	    	row[LINKS_INDEX] = [s.strip() for s in row[LINKS_INDEX]]
+	        row[WEIGHTS_INDEX] = row[WEIGHTS_INDEX].split(",")
+	    	row[WEIGHTS_INDEX] = [s.strip() for s in row[WEIGHTS_INDEX]]
 	        batch.append(row)
 	batchfile.close()
 
