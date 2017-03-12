@@ -57,6 +57,7 @@ def writeRowToDump(row):
 	quibbl['voteCount'] = count
 	quibbl['options'] = buildOptions(weights, count)
 	return quibbl
+
 def buildOptions(weights, count):
 	options = []
 	optionList = []
@@ -67,13 +68,10 @@ def buildOptions(weights, count):
 	for i in range(0, len(options)):
 		optDic = {}
 		optDic['name'] = options[i]
-		temp = [int(w) for w in weights]
 		optDic['odds'] = float(weights[i])/float(count)
 		optDic['count'] = int(weights[i])
 		optionList.append(optDic)
 	return optionList
-
-
 
 def readInBatchFile():
 	with open('batchupload.csv', 'rb') as batchfile:
@@ -121,5 +119,6 @@ def updateBatchCSV():
 
 def id_generator(timestamp, size=10, chars=string.ascii_uppercase + string.digits + string.ascii_lowercase):
    return str(timestamp) + '-' + ''.join(random.choice(chars) for _ in range(size))
+   
 if __name__ == "__main__":
 	main()
