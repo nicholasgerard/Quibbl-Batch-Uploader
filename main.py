@@ -110,7 +110,7 @@ def dumpBatchToJSON():
 	return
 
 def updateBatchCSV():
-	with open("output.csv", "wb") as f:
+	with open("batchupload.csv", "wb") as f:
 	    writer = csv.writer(f)
 	    for row in batch:
 	        #row[CALLOUT_INDEX] = ','.join(row[CALLOUT_INDEX]) #Uncomment to make callouts a list of callouts
@@ -119,6 +119,6 @@ def updateBatchCSV():
 
 def id_generator(timestamp, size=10, chars=string.ascii_uppercase + string.digits + string.ascii_lowercase):
    return str(timestamp) + '-' + ''.join(random.choice(chars) for _ in range(size))
-   
+
 if __name__ == "__main__":
 	main()
