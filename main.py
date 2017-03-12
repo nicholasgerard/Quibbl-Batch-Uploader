@@ -4,6 +4,7 @@ import time
 import string
 import random
 import json
+import codecs
 #Time
 TimePeriods = {'D':86400000,'W':604800000,'M':2419200000, 'Y':29030400000}
 #GLOBAL INDEXES : Plug and play the current indexes
@@ -75,7 +76,7 @@ def buildOptions(weights, count):
 	return optionList
 
 def readInBatchFile():
-	with open('batchupload.csv', 'rb') as batchfile:
+	with codecs.open('batchupload.csv', 'rb') as batchfile:
 	    batchreader = csv.reader(batchfile, quotechar='"')
 	    for row in batchreader:
 	        #row[CALLOUT_INDEX] = row[CALLOUT_INDEX].split(",") #Uncomment if you want Callouts to be a list of callouts
@@ -111,7 +112,7 @@ def dumpBatchToJSON():
 	return
 
 def updateBatchCSV():
-	with open("batchupload.csv", "wb") as f:
+	with codecs.open("batchupload.csv", "wb") as f:
 	    writer = csv.writer(f)
 	    for row in batch:
 	        #row[CALLOUT_INDEX] = ','.join(row[CALLOUT_INDEX]) #Uncomment to make callouts a list of callouts
