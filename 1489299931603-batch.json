@@ -1,0 +1,32 @@
+{
+  "quibbls": {
+    "1489299931603-GVkOXyirBb": {
+      "callout": "#NBA", 
+      "category": "Sports", 
+      "expires": 604800000, 
+      "imageURL": "https://www.flickr.com/photos/keithallison/5527864201", 
+      "links": [
+        "https://www.nytimes.com/2017/03/08/us/politics/affordable-care-act-obama-care-health.html", 
+        "http://www.cnn.com/2017/03/08/politics/graham-wiretap-russia-subpoena/index.html"
+      ], 
+      "options": [
+        {
+          "count": 5, 
+          "name": "Yes", 
+          "odds": 0.5
+        }, 
+        {
+          "count": 5, 
+          "name": "No", 
+          "odds": 0.5
+        }
+      ], 
+      "points": 10, 
+      "summary": "The Golden State Warriors haven't looked the same since Durant's injury. Team officials said they'll re-evaluate in a month before predicting the forward's return to the court.", 
+      "timestamp": 1489299931603, 
+      "title": "Will Kevin Durant play again before the playoffs?", 
+      "type": "Choose", 
+      "voteCount": 10
+    }
+  }
+}

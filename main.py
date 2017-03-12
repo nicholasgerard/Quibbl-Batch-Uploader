@@ -39,7 +39,7 @@ batch = []
 Quibbls = {}
 
 def writeRowToDump(row):
-	timestamp = int(time.time())
+	timestamp = int(round(time.time() * 1000))
 	quibbl = {}
 	for key in JSON_INDEX_SCHEMA:
 		quibbl[key] = row[JSON_INDEX_SCHEMA[key]]
@@ -104,7 +104,7 @@ def generateBatch():
 
 def dumpBatchToJSON():
 	global Quibbls
-	timestamp = int(time.time())
+	timestamp = int(round(time.time() * 1000))
 	Quibbls = {"quibbls":Quibbls}
 	with open(str(timestamp) + '-batch.json', 'w') as fp:
 	    json.dump(Quibbls, fp, indent=2, sort_keys=True)
@@ -116,6 +116,7 @@ def updateBatchCSV():
 	    for row in batch:
 	        #row[CALLOUT_INDEX] = ','.join(row[CALLOUT_INDEX]) #Uncomment to make callouts a list of callouts
 	        row[LINKS_INDEX] = ','.join(row[LINKS_INDEX])
+	        row[WEIGHTS_INDEX] = ','.join(row[WEIGHTS_INDEX])
 	    	writer.writerow(row)
 
 def id_generator(timestamp, size=10, chars=string.ascii_uppercase + string.digits + string.ascii_lowercase):
