@@ -49,28 +49,25 @@ def writeRowToDump(row):
 	try: #CSV Reads in as string. Checks to see if it is a shorthand identifier or expressed in milliseconds
 		quibbl['expires'] = int(quibbl['expires'])
 	except:
-		try: 
+		try:
 			quibbl['expires'] = TimePeriods[quibbl['expires'].upper()]
 		except:
 			quibbl['expires'] = None
 	weights = row[WEIGHTS_INDEX]
+	names = row[RESPONSES_INDEX]
 	count = sum([int(w) for w in weights])
 	quibbl['category'] = quibbl['category'].lower()
+	quibbl['type'] = quibbl['type'].lower()
 	quibbl['points'] = int(quibbl['points'])
 	quibbl['voteCount'] = count
-	quibbl['options'] = buildOptions(weights, count)
+	quibbl['options'] = buildOptions(weights, names, count)
 	return quibbl
 
-def buildOptions(weights, count):
-	options = []
+def buildOptions(weights, names, count):
 	optionList = []
-	if len(weights) == 2:
-		options = ['Yes','No']
-	elif len(weights) == 3:
-		options = ['Yes', 'No', 'Maybe']
-	for i in range(0, len(options)):
+	for i in range(0, len(names)):
 		optDic = {}
-		optDic['name'] = options[i]
+		optDic['name'] = names[i]
 		optDic['odds'] = float(weights[i])/float(count)
 		optDic['count'] = int(weights[i])
 		optionList.append(optDic)
@@ -86,6 +83,8 @@ def readInBatchFile():
 	    	row[LINKS_INDEX] = [s.strip() for s in row[LINKS_INDEX]]
 	        row[WEIGHTS_INDEX] = row[WEIGHTS_INDEX].split(",")
 	    	row[WEIGHTS_INDEX] = [s.strip() for s in row[WEIGHTS_INDEX]]
+	    	row[RESPONSES_INDEX] = row[RESPONSES_INDEX].split(",")
+	    	row[RESPONSES_INDEX] = [s.strip() for s in row[RESPONSES_INDEX]]
 	        batch.append(row)
 	batchfile.close()
 
@@ -119,6 +118,7 @@ def updateBatchCSV():
 	        #row[CALLOUT_INDEX] = ','.join(row[CALLOUT_INDEX]) #Uncomment to make callouts a list of callouts
 	        row[LINKS_INDEX] = ','.join(row[LINKS_INDEX])
 	        row[WEIGHTS_INDEX] = ','.join(row[WEIGHTS_INDEX])
+	        row[RESPONSES_INDEX] = ','.join(row[RESPONSES_INDEX])
 	    	writer.writerow(row)
 
 def id_generator(timestamp, size=10, chars=string.ascii_uppercase + string.digits + string.ascii_lowercase):
